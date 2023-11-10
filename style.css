@@ -97,7 +97,7 @@ body{
     -moz-appearance: none;
     appearance: none;
     height: 5px;
-    background: #37ff91;
+    background: #e7e0e0;
     -webkit-transition: .2s;
     transition: opacity .2s;
 }
@@ -109,8 +109,8 @@ body{
     appearance: none;
     width: 15px;
     height: 15px;
-    background: white;
-    border: 3px solid #ff8737;
+    background: #aaaaaa;
+    border: 3px solid #aaaaaa;
     cursor: pointer;
     border-radius: 100%;
 }
@@ -165,7 +165,7 @@ i.fa-step-backward{
 }
 
 .loader .stroke {
-    background: #f1f1f1;
+    background: #b98989;
     height: 100%;
     width: 10px;
     border-radius: 50px;
